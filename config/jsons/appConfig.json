@@ -1,0 +1,11 @@
+{
+	"kafka": {
+		"host": "localhost:9092",
+		"groupId": "randomGrp"
+	},
+	"mongodb": {
+		"host": "localhost:27017",
+		"database": "random_service_db"
+	},
+	"TIMEOUT_MS": 60000
+}
